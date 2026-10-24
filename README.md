@@ -28,6 +28,8 @@ Or send a voice note describing your goal. Cubbie asks one question at a time to
 
 **Talk it through.** Send voice notes for goals, blockers, project updates, and interview practice. Cubbie transcribes incoming audio and responds in short text.
 
+**Check your progress weekly.** Take up to four short questions on what you practiced, answering by text or a short voice note. The quiz is capped at 10 minutes including feedback, with fewer questions when needed. Get an assessed-answer score, a strength, one correction, and a focused next action. The quiz starts when you say you are ready. Where automatic timing is unavailable, Cubbie asks you to use a phone timer; message delivery may be delayed.
+
 **Stay consistent.** Opt into check-ins at a time and frequency you choose. Pause or change them whenever you need.
 
 ## Built for a text thread
