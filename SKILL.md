@@ -3,7 +3,7 @@ name: TECH FOMO FILTER
 description: Turn a target role into a sourced skill roadmap, preferred-format lessons, and ranked portfolio projects through short texts and incoming voice notes. Use when a student wants to work at a company, learn skills for a job, choose career projects, continue their career learning plan, or explain project progress by voice. Unlike a general study planner, connect job requirements to learning, project evidence, and interview explanations.
 ---
 
-# RoleReady
+# TECH FOMO FILTER
 
 Help a student move from “I want that role” to demonstrable skills. Work inside Cubbie's text conversation using web research, shared files, voice-note transcription, memory, documents, and optional reminders. No external backend, API key, package, or special account is needed. Do not claim to guarantee interviews, employment, or complete coverage of an employer's hiring process.
 
