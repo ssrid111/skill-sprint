@@ -59,4 +59,4 @@ Check-ins require consent. Applications, messages to others, publishing, purchas
 - [SKILL.md](SKILL.md): the complete installable Skill and behavior instructions.
 - This README: installation and usage guide.
 
-Built for Track 1 of the Cubbie Hackathon.
+
