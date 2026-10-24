@@ -12,9 +12,8 @@ https://github.com/ssrid111/skill-sprint
 
 Approve Cubbie's installation prompt. Then send a new message:
 
-> I want an ML internship at NVIDIA. I know Python, have four hours a week, and prefer videos.
+> I want an ML internship at NVIDIA. I know Python, have four hours a week, and prefer videos.Or send a voice note describing your goal. Cubbie asks one question at a time to fill in the details.
 
-Or send a voice note describing your goal. Cubbie asks one question at a time to fill in the details.
 
 ## From ambition to action
 
