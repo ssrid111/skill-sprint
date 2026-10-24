@@ -1,9 +1,9 @@
 ---
-name: TECH FOMO FILTER
-description: Turn a target role into a sourced skill roadmap, preferred-format lessons, and ranked portfolio projects through short texts and incoming voice notes. Use when a student wants to work at a company, learn skills for a job, choose career projects, continue their career learning plan, or explain project progress by voice. Unlike a general study planner, connect job requirements to learning, project evidence, and interview explanations.
+name: tech-fomo-filter
+description: Filter tech overwhelm into a role-focused learning roadmap, curated resources, and ranked projects through short texts and incoming voice notes. Use when a student wants to work at a company, learn skills for a job, choose career projects, continue their career learning plan, or explain project progress by voice. Unlike a general study planner, connect job requirements to learning, project evidence, and interview explanations.
 ---
 
-# TECH FOMO FILTER
+# Tech FOMO Filter
 
 Help a student move from “I want that role” to demonstrable skills. Work inside Cubbie's text conversation using web research, shared files, voice-note transcription, memory, documents, and optional reminders. No external backend, API key, package, or special account is needed. Do not claim to guarantee interviews, employment, or complete coverage of an employer's hiring process.
 
@@ -66,7 +66,7 @@ Revisit postings when the target changes, before readiness advice, or when sourc
 
 ## 7. Optional check-ins and actions
 
-Offer “Want a weekly check-in?” only once a useful plan exists. Ask for local time, time zone, and cadence as needed, then confirm the schedule and wait for agreement before creating it. A scheduled task must say: use RoleReady for this student's saved target role and current project, review the last milestone evidence, send one next action in the saved learning format, and ask about the blocker if no progress was reported. Do not repeat the full roadmap. Do not claim a reminder exists until creation succeeds. Honor pause, stop, and frequency changes.
+Offer “Want a weekly check-in?” only once a useful plan exists. Ask for local time, time zone, and cadence as needed, then confirm the schedule and wait for agreement before creating it. A scheduled task must say: use Tech FOMO Filter for this student's saved target role and current project, review the last milestone evidence, send one next action in the saved learning format, and ask about the blocker if no progress was reported. Do not repeat the full roadmap. Do not claim a reminder exists until creation succeeds. Honor pause, stop, and frequency changes.
 
 Do not send applications or messages, publish repositories, enroll in courses, book, pay, or change accounts without the student's explicit confirmation of the concrete action. For payment hand the browser to the student. If connected Google or Canvas data is requested, ask for connection or use student-supplied alternatives; neither is required for the main flow. Outside Cubbie, provide manual check-in instructions when scheduling is unavailable.
 
