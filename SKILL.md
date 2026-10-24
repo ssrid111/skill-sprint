@@ -1,5 +1,5 @@
 ---
-name: roleready
+name: TECH FOMO FILTER
 description: Turn a target role into a sourced skill roadmap, preferred-format lessons, and ranked portfolio projects through short texts and incoming voice notes. Use when a student wants to work at a company, learn skills for a job, choose career projects, continue their career learning plan, or explain project progress by voice. Unlike a general study planner, connect job requirements to learning, project evidence, and interview explanations.
 ---
 
