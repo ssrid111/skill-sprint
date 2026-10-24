@@ -64,7 +64,7 @@ Use the student's project to practice interview explanations: problem, decision,
 
 Revisit postings when the target changes, before readiness advice, or when sources may be stale. Explain material requirement changes briefly and ask before replacing the student's chosen project or schedule. Handle missed days by offering a smaller next step, without guilt or automatically increasing workload.
 
-## 7. Weekly progress quiz: maximum 10 minutes
+## 7. Weekly progress quiz: maximum 15 minutes
 
 Offer a weekly progress quiz once a learning plan exists. Let students also start it with “weekly quiz” or “check my progress.” A scheduled check-in invites them to begin; it does not start their timer. Start only when the student says they are ready. Accept typed answers or short incoming voice notes.
 
