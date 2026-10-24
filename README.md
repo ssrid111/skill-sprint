@@ -1,4 +1,4 @@
-# RoleReady
+# TECH FOMO FILTER
 
 A career learning coach for Cubbie in iMessage. Choose a company and role; get a sourced skill roadmap, learning resources in your preferred format, three ranked project options, and one manageable next step. Send voice notes for goals, blockers, and explain-backs.
 
