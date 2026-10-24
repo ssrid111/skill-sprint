@@ -1,14 +1,14 @@
-# Tech FOMO Filter
+# Skill Sprint
 
 ### Stop chasing every technology. Start building toward your goal.
 
-Tech FOMO Filter is a career learning Skill for [Cubbie](https://cubbie.ai), delivered through iMessage. Tell it the company and role you're aiming for. It helps you focus on relevant skills, learn in your preferred format, and build projects that demonstrate what you know.
+Skill Sprint is a career learning Skill for [Cubbie](https://cubbie.ai), delivered through iMessage. Tell it the company and role you're aiming for. It helps you focus on relevant skills, learn in your preferred format, and build projects that demonstrate what you know.
 
 ## Get started
 
 Send this repository link to Cubbie:
 
-https://github.com/ssrid111/TECH-FOMO-Filter-
+https://github.com/ssrid111/skill-sprint
 
 Approve Cubbie's installation prompt. Then send a new message:
 
@@ -52,7 +52,7 @@ This repository contains an instruction-based Cubbie Skill. Cubbie supplies the 
 
 Save learning preferences and progress only with permission. The Skill does not introduce a team server for resumes, audio, or progress. It instructs Cubbie to retain useful progress summaries rather than raw voice recordings or full transcripts; Cubbie's own service policies still apply.
 
-Check-ins require consent. Applications, messages to others, publishing, purchases, and account changes require explicit confirmation. Tech FOMO Filter does not guarantee interviews or employment.
+Check-ins require consent. Applications, messages to others, publishing, purchases, and account changes require explicit confirmation. Skill Sprint does not guarantee interviews or employment.
 
 ## Repository
 
