@@ -16,7 +16,7 @@ Approve Cubbie's installation prompt. Then send a new message:
 
 Or send a voice note describing your goal. Cubbie asks one question at a time to fill in the details.
 
-## From ambition to action
+## From ambition to actionn
 
 **Find the skills that matter.** Research relevant official job postings and separate required qualifications, preferred skills, and suggested preparation. Compare them with your current experience.
 
